@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 1. npx create-react-app product-stock-app --template typescript
 .....npm install --save cross-env : to do browser=none
+2.npm install react-router-dom@6
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
